@@ -18,7 +18,7 @@ public class FirstProgram {
 		 FullName = FirstName + " " + LastName;
 		System.out.println("Full Name is: "+FullName );
 		
-		FirstName = "Srikant";
+		FirstName = "Srikant4";
 		 LastName = "Kumar";
 		 FullName = FirstName + " " + LastName;
 		System.out.println("Full Name is: "+FullName );
