@@ -8,7 +8,7 @@ public class FirstProgram {
 //		System.out.println("Hello World");
 		
 		
-		String FirstName = "Srikant";
+		String FirstName = "test";
 		String LastName = "Kumar";
 		String FullName = FirstName + " " + LastName;
 		System.out.println("Full Name is: "+FullName );
